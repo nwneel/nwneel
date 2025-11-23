@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **nwneel@hotmail.com**
 
+- 📄 Know about my experiences [https://www.linkedin.com/feed/](https://www.linkedin.com/feed/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
