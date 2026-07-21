@@ -68,15 +68,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nwneel&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nwneel&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" height="165"/>
-</p>
-
----
-
 ### 🤝 Connect With Me
 
 <p align="left">
